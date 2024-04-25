@@ -1,0 +1,11 @@
+{
+    "name": "PDF.js with Base64",
+    "short_name": "PDF.js",
+    "start_url": "/",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "display": "standalone"
+    
+    
+  }
+  
